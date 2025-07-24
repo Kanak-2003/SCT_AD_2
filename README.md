@@ -1,3 +1,9 @@
+## ⚠️ License Notice
+
+This project is part of my internship/personal learning.  
+It is **not licensed** for reuse, redistribution, or commercial use.  
+Please contact me if you wish to use any part of this code.
+
 # 📝 Android To-Do List App
 
 A simple, lightweight To-Do List Android app built using Java.  
